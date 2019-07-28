@@ -1,8 +1,11 @@
 
 <?php 
 
-echo 123;
+class AA{
 
 
-echo 456;
+	public fuction test(){
+		echo 123;
+	}
+}
 
