@@ -4,7 +4,7 @@
 class AA{
 
 
-	public fuction test(){
+	public function test(){
 		echo 123;
 	}
 }
